@@ -1,0 +1,4 @@
+[BEGIN CODE]
+prototypes\turf\closed\wall.txt
+prototypes\turf\open\floor.txt
+[END CODE]
